@@ -1,7 +1,11 @@
 import java.util.Scanner;
 // testing changes
 // 01/05/2018, 11.39 am
+<<<<<<< HEAD
 // after the video
+=======
+// 01/05/2018, 12.24 pm
+>>>>>>> 04a6f90ae63cdc388cc298adf706390c18297f1d
 public class BinarySearch {
 
 	 int[] a= {1,3,5,6,8,9,10,12};

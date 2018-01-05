@@ -5,7 +5,11 @@ import java.util.Scanner;
 // after the video
 =======
 // 01/05/2018, 12.24 pm
+<<<<<<< HEAD
 >>>>>>> 04a6f90ae63cdc388cc298adf706390c18297f1d
+=======
+// yes sampath you are working on right path
+>>>>>>> 55795be605ed9c45af0dff09a3c56e6ada51fde8
 public class BinarySearch {
 
 	 int[] a= {1,3,5,6,8,9,10,12};

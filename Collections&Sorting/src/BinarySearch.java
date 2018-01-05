@@ -1,6 +1,7 @@
 import java.util.Scanner;
 // testing changes
 // 01/05/2018, 11.39 am
+// 01/05/2018, 11.44 am
 public class BinarySearch {
 
 	 int[] a= {1,3,5,6,8,9,10,12};

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// testing changes
 public class BinarySearch {
 
 	 int[] a= {1,3,5,6,8,9,10,12};
